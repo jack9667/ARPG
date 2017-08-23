@@ -1,0 +1,8 @@
+﻿1001,打暴击,icon1,Warrior,Basic,Basic,0,30
+1002,超级战,icon2,Warrior,Skill,One,5,30
+1003,一刀砍,icon3,Warrior,Skill,Two,8,40
+1004,永生,icon4,Warrior,Skill,Three,10,50
+2001,雷动九天,icon5,FemaleAssassin,Basic,Basic,0,30
+2002,炽修罗,15204614S455,FemaleAssassin,Skill,One,5,35
+2003,不动明王,15232014T939,FemaleAssassin,Skill,Two,8,40
+2004,唯我独尊,15241114V451,FemaleAssassin,Skill,Three,13,50
